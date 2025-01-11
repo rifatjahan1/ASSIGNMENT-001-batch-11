@@ -45,3 +45,82 @@ body {
     font-size: 56px;
   }
   /*header section end*/
+  /*vision section added*/
+
+.vision-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .vision-title {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .vision-description {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 50px;
+  }
+  .card {
+    border-radius: 16px;
+    padding: 32px;
+    width: 410.67px;
+    height: 325px;
+  }
+  .card-1 {
+    background-color: rgba(84, 144, 245, 0.2);
+  }
+  .card-2 {
+    background-color: rgba(198, 228, 214);
+  }
+  .card-3 {
+    background-color: rgb(247, 235, 207);
+  }
+  .card-title {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .card-description {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .btn1 {
+    background: rgb(84, 144, 245);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px 11px 20px;
+    margin-top: 15px;
+  }
+  .btn1:hover {
+    background-color: blueviolet;
+  }
+  .btn2 {
+    background-color: rgb(9, 161, 92);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px 11px 20px;
+    margin-top: 15px;
+  }
+  .btn2:hover {
+    background-color: blueviolet;
+  }
+  .btn3 {
+    background-color: rgb(255, 194, 57);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px 11px 20px;
+    margin-top: 15px;
+  }
+  .btn3:hover {
+    background-color: blueviolet;
+  }
+  /*vision section end*/
