@@ -133,7 +133,7 @@ body {
     margin: 50px 0px;
   }
   .quotes {
-    background-image: url(../assets/quote-bg.png);
+    background-image: url(../quote-bg.png);
     background-repeat: no-repeat;
   
     margin: 30px;
